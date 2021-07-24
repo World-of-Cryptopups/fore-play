@@ -105,3 +105,6 @@ dist
 
 # dotenv
 .env*
+
+# this is typescript, so ignore output javascript files
+output
