@@ -6,7 +6,8 @@
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "./output"
+    "outDir": "./output",
+    "resolveJsonModule": true
   },
   "include": ["**/*.ts"]
 }
